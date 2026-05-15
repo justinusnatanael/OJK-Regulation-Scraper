@@ -1,5 +1,7 @@
 # OJK Regulation Web Scraper and Task Scheduler
 
+> *This project is a functional prototype that was developed as an ongoing initiative. While the core scraping and scheduling engines are operational, there are known bugs (e.g., handling specific dynamic elements or edge cases in scheduling loops) that are currently being addressed. See the 'Known Issues & Future Work' section for details.*
+
 ## Overview
 This project is an automated web scraping solution designed to extract financial regulation data from the official OJK (Otoritas Jasa Keuangan) website. The primary purpose is to monitor and collect the latest regulatory updates in the Indonesian financial sector. The tool identifies regulation titles and their corresponding document links, providing a structured dataset for compliance monitoring or legal research. Additionally, it features a scheduling mechanism to ensure the data stays current without manual intervention.
 
